@@ -18,7 +18,7 @@ CLASE ...... Desarrollador de Aplicaciones Web
 SUBCLASE ... Diseñador gráfico
 BASE ....... Vigara FP
 ARMAS ...... Java, JavaScript, PHP, PL/SQL, HTML, CSS
-IDIOMAS .... Español (nativo), Inglés (B2)
+IDIOMAS .... Español nativo, Inglés B2
 EN CURSO ... Agencia de diseño y desarrollo de páginas web
 ```
 
@@ -32,7 +32,7 @@ Estudio DAW en VIGARA FP y me interesa el desarrollo front-end. Me gusta cuidar 
 
 ---
 
-### Capítulo II · Arsenal
+### Lenguajes y tecnologías
 
 <!--
   ICONOS: cambia la lista después de "i=" por tus tecnologías,
@@ -43,12 +43,12 @@ Estudio DAW en VIGARA FP y me interesa el desarrollo front-end. Me gusta cuidar 
   Pon solo lo que de verdad sabes usar.
 -->
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,git,github,vscode&theme=dark" alt="Tecnologías que utilizo">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode&theme=dark" alt="Tecnologías que utilizo">
 </p>
 
 ---
 
-### Capítulo III · Misiones destacadas
+### Mis proyectos
 
 <!--
   TARJETAS DE REPOSITORIOS: sustituye TU_USUARIO, TU_REPO_1 y
@@ -61,17 +61,13 @@ Estudio DAW en VIGARA FP y me interesa el desarrollo front-end. Me gusta cuidar 
   <a href="https://github.com/marcodpg/Marco-del-Prete">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodpg&repo=Marco-del-Prete&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45" alt="Marco-del-Prete">
   </a>
-  <a href="https://github.com/marcodpg/TU_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodpg&repo=TU_REPO_2&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45" alt="[Nombre del proyecto 2]">
-  </a>
 </p>
 
 <!--
   Describe cada proyecto en una línea: qué es y con qué está hecho.
   Si es un proyecto de clase, también vale: di qué aprendiste.
 -->
-- **[Nombre del proyecto 1]**: [qué es y qué tecnologías usa].
-- **[Nombre del proyecto 2]**: [qué es y qué destacarías de él].
+- **Marco-del-Prete**: Mi primer repositorio público.
 
 ---
 
