@@ -1,7 +1,7 @@
 
 ---
 
-### Capítulo I · Hoja de personaje
+### Sobre mí
 
 <!--
   Rellena cada campo con pocas palabras. Mantén los puntos para que
@@ -14,12 +14,12 @@
   EN CURSO ... qué estás aprendiendo o en qué proyecto estás ahora
 -->
 ```
-CLASE ...... [Ej.: Estudiante de Desarrollo de Aplicaciones Web]
-SUBCLASE ... [Ej.: Diseñador gráfico / Técnico de sistemas]
-BASE ....... [Centro de estudios o empresa actual]
-ARMAS ...... [Tecnología 1, Tecnología 2, Tecnología 3]
-IDIOMAS .... [Ej.: Español (nativo), Inglés (B2)]
-EN CURSO ... [Lo que estás aprendiendo o construyendo ahora]
+CLASE ...... Desarrollador de Aplicaciones Web
+SUBCLASE ... Diseñador gráfico
+BASE ....... Vigara FP
+ARMAS ...... Java, JavaScript, PHP, PL/SQL, HTML, CSS
+IDIOMAS .... Español (nativo), Inglés (B2)
+EN CURSO ... Agencia de diseño y desarrollo de páginas web
 ```
 
 <!--
@@ -28,7 +28,7 @@ EN CURSO ... [Lo que estás aprendiendo o construyendo ahora]
   proyectos...). Evita frases genéricas como "soy una persona
   trabajadora": cuenta algo concreto que te diferencie.
 -->
-[Escribe aquí tu presentación. Por ejemplo: «Estudio DAW en VIGARA FP y me interesa el desarrollo front-end. Me gusta cuidar los detalles de las interfaces y aprender construyendo proyectos pequeños pero completos. Busco empresa para hacer las prácticas.»]
+Estudio DAW en VIGARA FP y me interesa el desarrollo front-end. Me gusta cuidar los detalles de las interfaces y aprender construyendo proyectos pequeños pero completos. Busco empresa para hacer las prácticas.
 
 ---
 
