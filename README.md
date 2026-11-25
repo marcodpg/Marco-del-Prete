@@ -71,7 +71,7 @@ Estudio DAW en VIGARA FP y me interesa el desarrollo front-end. Me gusta cuidar 
 
 ---
 
-### Capítulo IV · Bitácora de viaje
+### Mi trayectoria
 
 <!--
   TRAYECTORIA: de lo más reciente a lo más antiguo.
@@ -83,20 +83,18 @@ Estudio DAW en VIGARA FP y me interesa el desarrollo front-end. Me gusta cuidar 
   En "Logros" pon certificados, cursos, premios, hackatones, etc.
 -->
 **Formación**
-- **[Año inicio] – [Año fin o «Actualidad»]** · [Título o ciclo formativo] — [Centro]
-- **[Año inicio] – [Año fin]** · [Título anterior] — [Centro]
+- **2025 – 2027** · Fullstack Developer — Vigara FP
 
 **Experiencia**
-- **[Año inicio] – [Año fin o «Actualidad»]** · [Puesto] — [Empresa]: [qué hacías en una frase].
-- **[Año inicio] – [Año fin]** · [Puesto] — [Empresa]: [qué hacías en una frase].
+- **2026 – ACT** · CEO — MDPG Enterprise: Aportar valor a equipos multidisciplinares, controlar los KPI's, hacer Cool Calling.
 
 **Logros y certificaciones**
-- [Ej.: Curso de Git y GitHub (20 h) — Entidad, año]
-- [Ej.: Participación en un hackatón o premio]
+- Curso de Git y GitHub (20 h) — Udemy, 2026
+- Participación en un hackatón — Coursera, 2025
 
 ---
 
-### Capítulo V · Estadísticas
+### Estadísticas
 
 <!--
   Solo tienes que sustituir TU_USUARIO (aparece dos veces).
@@ -106,12 +104,11 @@ Estudio DAW en VIGARA FP y me interesa el desarrollo front-end. Me gusta cuidar 
 -->
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcodpg&show_icons=true&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45&locale=es" alt="Estadísticas de GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodpg&layout=compact&langs_count=6&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&locale=es" alt="Lenguajes más usados">
 </p>
 
 ---
 
-### Capítulo VI · Contacto
+### Contacto
 
 <!--
   Sustituye TU_LINKEDIN y TU_EMAIL. Usa un correo profesional
@@ -120,7 +117,6 @@ Estudio DAW en VIGARA FP y me interesa el desarrollo front-end. Me gusta cuidar 
   portfolio web.
 -->
 <p>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-232323?style=for-the-badge&logo=linkedin&logoColor=ECE7DA" alt="LinkedIn"></a>
   <a href="mailto:marcodpg@outlook.com"><img src="https://img.shields.io/badge/Correo-232323?style=for-the-badge&logo=gmail&logoColor=D28A45" alt="Correo"></a>
 </p>
 
@@ -129,6 +125,6 @@ Estudio DAW en VIGARA FP y me interesa el desarrollo front-end. Me gusta cuidar 
   algo que te motive...). Evita citas de libros o películas: mejor
   que sea tuya.
 -->
-<p><sub><i>«[Tu frase o lema personal]»</i></sub></p>
+<p><sub><i>«El tiempo de Dios es perfecto»</i></sub></p>
 
 <!-- NO TIENE PORQUE SER EXACTAMENTE ESTA MISMA PLANTILLA, ACTUALIZADLO CON LO QUE NECESITEIS Y QUERAIS, ES PARA QUE VOSOTROS TENGAIS UNA GUIA, CUANTO MAS DETALLADO Y MEJOR MAQUETADO MEJOR-->
