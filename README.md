@@ -1,61 +1,3 @@
-<!--
-=====================================================================
-  PLANTILLA DE README DE PERFIL · CÓMO USARLA
-=====================================================================
-  1. Crea en GitHub un repositorio PÚBLICO con el mismo nombre que tu
-     usuario (por ejemplo, si eres "lauragarcia", el repositorio se
-     llama "lauragarcia"). Marca la opción "Add a README file".
-  2. Pega esta plantilla en ese README.md.
-  3. Busca y sustituye (Ctrl + F) estos marcadores en TODO el archivo:
-       TU_USUARIO      → tu usuario de GitHub
-       TU_REPO_1       → nombre exacto de tu primer repositorio destacado
-       TU_REPO_2       → nombre exacto de tu segundo repositorio destacado
-       TU_LINKEDIN     → la parte final de tu URL de LinkedIn
-       TU_EMAIL        → tu correo de contacto
-  4. Cambia todos los textos entre corchetes [ ] por tu información y
-     borra los corchetes.
-  5. Estos bloques <!- - ... - -> son comentarios: NO se ven en GitHub.
-     Puedes dejarlos o borrarlos cuando termines.
-=====================================================================
--->
-
-<div align="center">
-
-<!--
-  CABECERA: escribe tu nombre con letras separadas por espacios.
-  Ajusta la longitud de las líneas +---+ para que el marco cierre
-  justo con tu nombre (cuenta los caracteres).
-  El dibujo ASCII es opcional: puedes cambiarlo por otro que te
-  represente (un mando, un portátil, una taza de café...).
--->
-<pre>
-+-------------------------------------+
-| N O M B R E   A P E L L I D O       |
-+-------------------------------------+
-
-              /\
-             /  \
-            |    |
-            |    |
-            |    |
-      ______|    |______
-     |______    ______|
-            |  |
-            |  |
-            |__|
-</pre>
-
-<!--
-  TEXTO ANIMADO: cambia lo que hay después de "lines=".
-  Cada línea se separa con ";" y los espacios se escriben con "+".
-  El símbolo | se escribe como %7C.
-  Ejemplo: lines=Estudiante+de+DAM;Desarrollador+web;Java+%7C+Python+%7C+SQL
-  También puedes cambiar el color (color=D28A45) por cualquier
-  color hexadecimal sin la almohadilla.
--->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&pause=1400&color=D28A45&center=true&vCenter=true&width=560&lines=Tu+rol+principal;Tu+segundo+rol+o+especialidad;Tecnolog%C3%ADa+1+%7C+Tecnolog%C3%ADa+2+%7C+Tecnolog%C3%ADa+3" alt="[Resume aquí tu rol, por ejemplo: Estudiante de DAM y desarrollador web]">
-
-</div>
 
 ---
 
@@ -100,7 +42,7 @@ EN CURSO ... [Lo que estás aprendiendo o construyendo ahora]
   blender, figma, linux, docker...).
   Pon solo lo que de verdad sabes usar.
 -->
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,java,py,git,github,vscode&theme=dark" alt="Tecnologías que utilizo">
 </p>
 
@@ -115,12 +57,12 @@ EN CURSO ... [Lo que estás aprendiendo o construyendo ahora]
   Si solo tienes un proyecto, borra el segundo bloque <a>...</a>.
   Si tienes más, copia un bloque <a>...</a> y cambia el repositorio.
 -->
-<p align="center">
-  <a href="https://github.com/TU_USUARIO/TU_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPO_1&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45" alt="[Nombre del proyecto 1]">
+<p>
+  <a href="https://github.com/marcodpg/Marco-del-Prete">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodpg&repo=Marco-del-Prete&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45" alt="Marco-del-Prete">
   </a>
-  <a href="https://github.com/TU_USUARIO/TU_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPO_2&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45" alt="[Nombre del proyecto 2]">
+  <a href="https://github.com/marcodpg/TU_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcodpg&repo=TU_REPO_2&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45" alt="[Nombre del proyecto 2]">
   </a>
 </p>
 
@@ -166,9 +108,9 @@ EN CURSO ... [Lo que estás aprendiendo o construyendo ahora]
   Si alguna vez no cargan, es un fallo temporal del servicio externo:
   vuelve a mirarlo más tarde.
 -->
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45&locale=es" alt="Estadísticas de GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=6&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&locale=es" alt="Lenguajes más usados">
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcodpg&show_icons=true&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45&locale=es" alt="Estadísticas de GitHub">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcodpg&layout=compact&langs_count=6&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&locale=es" alt="Lenguajes más usados">
 </p>
 
 ---
@@ -181,9 +123,9 @@ EN CURSO ... [Lo que estás aprendiendo o construyendo ahora]
   Si no tienes LinkedIn, borra su línea <a>...</a> o cámbiala por tu
   portfolio web.
 -->
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-232323?style=for-the-badge&logo=linkedin&logoColor=ECE7DA" alt="LinkedIn"></a>
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Correo-232323?style=for-the-badge&logo=gmail&logoColor=D28A45" alt="Correo"></a>
+  <a href="mailto:marcodpg@outlook.com"><img src="https://img.shields.io/badge/Correo-232323?style=for-the-badge&logo=gmail&logoColor=D28A45" alt="Correo"></a>
 </p>
 
 <!--
@@ -191,6 +133,6 @@ EN CURSO ... [Lo que estás aprendiendo o construyendo ahora]
   algo que te motive...). Evita citas de libros o películas: mejor
   que sea tuya.
 -->
-<p align="center"><sub><i>«[Tu frase o lema personal]»</i></sub></p>
+<p><sub><i>«[Tu frase o lema personal]»</i></sub></p>
 
 <!-- NO TIENE PORQUE SER EXACTAMENTE ESTA MISMA PLANTILLA, ACTUALIZADLO CON LO QUE NECESITEIS Y QUERAIS, ES PARA QUE VOSOTROS TENGAIS UNA GUIA, CUANTO MAS DETALLADO Y MEJOR MAQUETADO MEJOR-->
